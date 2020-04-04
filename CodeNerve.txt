@@ -1,0 +1,22 @@
+<span id="a">shushurina@welcome</span>:<span id="b">~</span><span id="c">$</span> cd Shushurina/<!-- kjsdfhkjdhsfkjdshfkj -->About_me
+<span id="a">shushurina@welcome</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->anastasiia.txt<br/><br/>
+<p>Меня зовут Шушурина Настя. Я — HR-аналитик.
+За последние 6 лет я работала в разных направлениях HR начиная от корпоративной культуры заканчивая кадровым администрированием. Сейчас я увлеклась аналитикой и узнаю новое.
+</p><p>
+За плечами высшее образование по Управлению персоналом, прослушанный курс по бизнес-аналитике, а также успешное завершение различных курсов по аналитике, в том числе и продуктовой. В настоящий момент являюсь студентом Яндекс.Практикум по направлению Аналитик данных и изучаю специализацию Data Science на DataCamp.
+</p><p>
+Я являюсь автором <a href="http://tmgo.me/abouthr">телеграм-канала hr fm</a>, где пишу про трудности коммуникации, сложные интервью, эмоциональное выгорание на работе. Там можно найти материалы о внутренней кухне HR и полезные ссылки на другие ресурсы, статьи или обучающие курсы. Еще меня можно найти <a href="https://medium.com/@anastasiiashu">на медиуме</a>, там я пишу про научное мышление и лайфхаки в Python. Планирую со временем делать перевод статей, и разобрать темы со статистикой.
+</p>
+<p>
+Если у вас есть что обсудить или возник вопрос — пишите на <a href="mailto:shushurinaa@gmail.com">shushurinaa@gmail.com</a></p>
+
+
+Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
+<p>You can introduce yourself here.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
+
+You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="Your email ID">Email</a>.
+
+<p>Cheers!</p>
