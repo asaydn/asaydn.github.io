@@ -1,2 +1,2 @@
-# http-asaydn.github.io-
+# asaydn.github.io
 Хостинг
