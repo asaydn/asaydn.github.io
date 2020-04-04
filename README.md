@@ -1,37 +1,10 @@
 ## Всем привет!
 
-You can use the [editor on GitHub](https://github.com/asaydn/asaydn.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Меня зовут Шушурина Настя. Я — HR-аналитик.
+За последние 6 лет я работала в разных направлениях HR начиная от корпоративной культуры заканчивая кадровым администрированием. Сейчас я увлеклась аналитикой и узнаю новое.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+За плечами высшее образование по Управлению персоналом, прослушанный курс по бизнес-аналитике, а также успешное завершение различных курсов по аналитике, в том числе и продуктовой. В настоящий момент являюсь студентом Яндекс.Практикум по направлению Аналитик данных и изучаю специализацию Data Science на DataCamp.
 
-### Markdown
+Я являюсь автором телеграм-канала [hr fm](http://tmgo.me/abouthr), где пишу про трудности коммуникации, сложные интервью, эмоциональное выгорание на работе. Там можно найти материалы о внутренней кухне HR и полезные ссылки на другие ресурсы, статьи или обучающие курсы. Еще меня можно найти на [медиуме](https://medium.com/@anastasiiashu), там я пишу про научное мышление и лайфхаки в Python. Планирую со временем делать перевод статей, и разобрать темы со статистикой.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/asaydn/asaydn.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Если у вас есть что обсудить или возник вопрос — пишите на **shushurinaa@gmail.com**
